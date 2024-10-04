@@ -58,7 +58,7 @@ def Suduko(grid, row, col):
         grid[row][col] = 0
     return False
  
-0 means the cells where no value is assigned'''
+0 means the cells where no value is assigned
 grid = [[2, 5, 0, 0, 3, 0, 9, 0, 1],
         [0, 1, 0, 0, 0, 4, 0, 0, 0],
     [4, 0, 7, 0, 0, 0, 2, 0, 8],
